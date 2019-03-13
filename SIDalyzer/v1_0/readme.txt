@@ -1,0 +1,3 @@
+The BASIC version works well, but it is pretty slow and hard to use. The BASIC is compiled with a  C64 compiler like Blitz Compiler or Austro Speed compiler.
+The files are in the common D64 format, which is a disk image. It can be used with emulators like VICE or copied to an SD card and used with SD2IEC drives
+(or other emulators, like the Ultimate II+ or Pi1541) connected to the C64. Finally it can be copied to a real 5 1/4" floppy disk, in case you like it really retro.
