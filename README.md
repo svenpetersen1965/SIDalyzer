@@ -1,5 +1,5 @@
 # SIDalyzer
-This is a software for analyzing the Commodore C64 SID. Every parameter for every voice can be set separately.
+This is a software for analyzing the Commodore C64 SID sound chip/synthesizer. Every parameter for every voice can be set separately.
 
 The purpose of this software is testing the register settings or the function of the SID (or a SID replacement/emulation).
 
